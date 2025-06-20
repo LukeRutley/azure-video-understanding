@@ -149,13 +149,6 @@ Cost Breakdown:
    - Batch similar videos for consistent analysis
 
 
-## 🙏 Acknowledgments
-
-- Azure OpenAI team for the powerful vision capabilities
-- OpenCV community for excellent video processing tools
-- Azure Identity team for seamless authentication
-
-
 ## 📚 Additional Resources
 
 - [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
