@@ -1,0 +1,5 @@
+opencv-python
+openai
+azure-identity
+jupyter
+notebook
