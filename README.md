@@ -1,6 +1,6 @@
 # Azure Video Understanding with OpenAI
 
-A Python notebook demonstrating how to analyze video content frame-by-frame using Azure OpenAI's GPT-4.1 vision capabilities. This approach provides greater control over frame extraction rate, resolution, and analysis workflow compared to Azure's pre-built video content understanding service.
+A Python notebook demonstrating how to analyze video content using Azure OpenAI's GPT-4.1 vision capabilities. This approach provides greater control over frame extraction rate, resolution, and analysis workflow compared to Azure's pre-built video content understanding service.
 
 ## 🎯 Why This Project?
 
@@ -130,18 +130,6 @@ Cost Breakdown:
 - **Quality Assurance**: Monitor manufacturing processes
 - **Sports Analysis**: Break down athletic performance
 
-## 📁 Project Structure
-
-```
-azure-video-understanding/
-├── video-frame-analysis-azure-openai.ipynb  # Main notebook
-├── requirements.txt                          # Python dependencies
-├── README.md                                # This file
-├── LICENSE                                  # MIT License
-├── .gitignore                              # Git ignore rules
-└── examples/                               # Example videos and outputs
-    └── sample-output.txt                   # Example analysis output
-```
 
 ## 🔧 Performance Tips
 
