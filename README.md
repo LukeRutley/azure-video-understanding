@@ -18,7 +18,7 @@ This notebook overcomes these limitations by providing:
 ## 🚀 Features
 
 - Extract frames from video files at any desired rate
-- Process frames with Azure OpenAI GPT-4 vision model
+- Process frames with Azure OpenAI GPT-4.1
 - Calculate processing costs with detailed breakdown
 - Support for various video formats
 - Azure AD (Entra ID) authentication
