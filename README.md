@@ -64,7 +64,7 @@ This notebook overcomes these limitations by providing:
 1. Place your video file in the project directory (or update the path in the notebook)
 2. Open the Jupyter notebook:
    ```bash
-   jupyter notebook video-frame-analysis-azure-openai.ipynb
+   jupyter notebook video-understanding.ipynb
    ```
 3. Run all cells to process your video
 
