@@ -2,7 +2,7 @@
 
 A Python notebook demonstrating how to analyze video content using Azure OpenAI's GPT-4.1 vision capabilities. This approach provides greater control over frame extraction rate, resolution, and analysis workflow compared to Azure's pre-built video content understanding service.
 
-## 🎯 Why This Project?
+## Why This Project?
 
 While Azure offers a [built-in video content understanding solution](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/video/overview), it has technical constraints:
 
@@ -15,30 +15,24 @@ This notebook overcomes these limitations by providing:
 - ✅ Complete control over the analysis workflow
 - ✅ Cost transparency and optimization
 
-## 🚀 Features
+## Features
 
 - Extract frames from video files at any desired rate
 - Process frames with Azure OpenAI GPT-4.1
 - Calculate processing costs with detailed breakdown
 - Support for various video formats
-- Azure AD (Entra ID) authentication
 - Optimized for cost efficiency with configurable detail levels
 
 ## 📋 Prerequisites
 
 ### Azure Resources
-- Azure OpenAI resource with GPT-4 vision model deployed
-- Azure subscription with appropriate permissions
-
-### Python Environment
-- Python 3.8+
-- Required packages (see [Installation](#installation))
+- Azure OpenAI resource with GPT-4.1 deployed
 
 ## 🛠️ Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/azure-video-understanding.git
+   git clone https://github.com/lukerutley/azure-video-understanding.git
    cd azure-video-understanding
    ```
 
